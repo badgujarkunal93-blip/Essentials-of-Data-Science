@@ -13,9 +13,9 @@
 |-----------|-------|-------|
 | [Practical 01](#-practical-01--python-fundamentals) | Python Fundamentals | — |
 | [Practical 02](#-practical-02--data-structures) | Data Structures (List, Dict, Tuple) | — |
-| [Practical 03](#-practical-03--numpy) | NumPy Operations | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Practical_03/numpy_operations.ipynb) |
-| [Practical 04](#-practical-04--pandas) | Pandas & Data Manipulation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Practical_04/pandas_operations.ipynb) |
-| [Practical 05](#-practical-05--matplotlib--data-visualization) | Matplotlib & Data Visualization | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Practical_05/matplotlib_visualization.ipynb) |
+| [Practical 03](#-practical-03--numpy) | NumPy Operations | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_03/numpy_operations.ipynb) |
+| [Practical 04](#-practical-04--pandas) | Pandas & Data Manipulation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_04/pandas_operations.ipynb) |
+| [Practical 05](#-practical-05--matplotlib--data-visualization) | Matplotlib & Data Visualization | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_05/matplotlib_visualization.ipynb) |
 
 ---
 
@@ -27,24 +27,24 @@
 
 | # | Problem | File |
 |---|---------|------|
-| 1 | Accept object mass (kg) and velocity (m/s), display momentum using `e = mc²` | [practice_01_momentum.py](./Practical_01/practice_01_momentum.py) |
-| 2 | Conditional program — single digit → square, two digit → square root, three digit → cube root | [practice_02_conditions.py](./Practical_01/practice_02_conditions.py) |
-| 3 | Read birth date & salary (₹), transform to age and salary in USD using functions | [practice_03_transformation.py](./Practical_01/practice_03_transformation.py) |
-| 4 | Print reverse of a given number | [practice_04_reverse.py](./Practical_01/practice_04_reverse.py) |
+| 1 | Accept object mass (kg) and velocity (m/s), display momentum using `e = mc²` | [practice_01_momentum.py](./Essentials-of-Data-Science/Practical_01/practice_01_momentum.py) |
+| 2 | Conditional program — single digit → square, two digit → square root, three digit → cube root | [practice_02_conditions.py](./Essentials-of-Data-Science/Practical_01/practice_02_conditions.py) |
+| 3 | Read birth date & salary (₹), transform to age and salary in USD using functions | [practice_03_transformation.py](./Essentials-of-Data-Science/Practical_01/practice_03_transformation.py) |
+| 4 | Print reverse of a given number | [practice_04_reverse.py](./Essentials-of-Data-Science/Practical_01/practice_04_reverse.py) |
 
 ### 📝 Lab Assignments
 
 | # | Problem | File |
 |---|---------|------|
-| 1 | Accept 5 course marks, compute result and grade (Distinction / First / Second / Third Division) | [lab_01_grades.py](./Practical_01/lab_01_grades.py) |
-| 2 | Fibonacci sequence using recursive function | [lab_02_fibonacci.py](./Practical_01/lab_02_fibonacci.py) |
-| 3 | Print different patterns in Python | [lab_03_patterns.py](./Practical_01/lab_03_patterns.py) |
+| 1 | Accept 5 course marks, compute result and grade (Distinction / First / Second / Third Division) | [lab_01_grades.py](./Essentials-of-Data-Science/Practical_01/lab_01_grades.py) |
+| 2 | Fibonacci sequence using recursive function | [lab_02_fibonacci.py](./Essentials-of-Data-Science/Practical_01/lab_02_fibonacci.py) |
+| 3 | Print different patterns in Python | [lab_03_patterns.py](./Essentials-of-Data-Science/Practical_01/lab_03_patterns.py) |
 
 ### 📚 Self Study Assignment
 
 | # | Problem | File |
 |---|---------|------|
-| 1 | Statistical analysis on employee data — Average, Max, Min, Sum | [self_study_statistics.py](./Practical_01/self_study_statistics.py) |
+| 1 | Statistical analysis on employee data — Average, Max, Min, Sum | [self_study_statistics.py](./Essentials-of-Data-Science/Practical_01/self_study_statistics.py) |
 
 ---
 
@@ -56,21 +56,21 @@
 
 | # | Problem | File |
 |---|---------|------|
-| 1 | Perform all List Operations and Dictionary Operations | [practice_01_list_dict.py](./Practical_02/practice_01_list_dict.py) |
+| 1 | Perform all List Operations and Dictionary Operations | [practice_01_list_dict.py](./Essentials-of-Data-Science/Practical_02/practice_01_list_dict.py) |
 
 ### 📝 Lab Assignments
 
 | # | Problem | File |
 |---|---------|------|
-| 1 | Select a number from an entered list and find its position using Linear Search | [lab_01_linear_search.py](./Practical_02/lab_01_linear_search.py) |
-| 2 | Cricket team of 11 players — find the captain (tallest player) using Dictionary | [lab_02_cricket_captain.py](./Practical_02/lab_02_cricket_captain.py) |
+| 1 | Select a number from an entered list and find its position using Linear Search | [lab_01_linear_search.py](./Essentials-of-Data-Science/Practical_02/lab_01_linear_search.py) |
+| 2 | Cricket team of 11 players — find the captain (tallest player) using Dictionary | [lab_02_cricket_captain.py](./Essentials-of-Data-Science/Practical_02/lab_02_cricket_captain.py) |
 
 ### 📚 Self Study Assignments
 
 | # | Problem | File |
 |---|---------|------|
-| 1 | Store student subject marks in a list, compute total marks and percentage | [self_study_01_marks.py](./Practical_02/self_study_01_marks.py) |
-| 2 | Perform all Tuple operations | [self_study_02_tuple.py](./Practical_02/self_study_02_tuple.py) |
+| 1 | Store student subject marks in a list, compute total marks and percentage | [self_study_01_marks.py](./Essentials-of-Data-Science/Practical_02/self_study_01_marks.py) |
+| 2 | Perform all Tuple operations | [self_study_02_tuple.py](./Essentials-of-Data-Science/Practical_02/self_study_02_tuple.py) |
 
 ---
 
@@ -78,7 +78,7 @@
 
 **Duration:** 6 Hours &nbsp;|&nbsp; **CO Mapped:** CO3
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Practical_03/numpy_operations.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_03/numpy_operations.ipynb)
 
 ### ✅ Practice Lab Assignment
 
@@ -97,13 +97,13 @@ Use a real-life dataset and perform the following operations:
 - ✔️ Copying and viewing arrays
 - ✔️ Data Stacking, Searching, Sorting, Counting, Broadcasting
 
-📓 Notebook: [numpy_operations.ipynb](./Practical_03/numpy_operations.ipynb)
+📓 Notebook: [numpy_operations.ipynb](./Essentials-of-Data-Science/Practical_03/numpy_operations.ipynb)
 
 ### 📚 Self Study Assignment
 
 | # | Problem | File |
 |---|---------|------|
-| 1 | Advanced data operations — image as array and image manipulations using NumPy | [self_study.ipynb](./Practical_03/self_study.ipynb) |
+| 1 | Advanced data operations — image as array and image manipulations using NumPy | [self_study.ipynb](./Essentials-of-Data-Science/Practical_03/self_study.ipynb) |
 
 ---
 
@@ -111,7 +111,7 @@ Use a real-life dataset and perform the following operations:
 
 **Duration:** 6 Hours &nbsp;|&nbsp; **CO Mapped:** CO4
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Practical_04/pandas_operations.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_04/pandas_operations.ipynb)
 
 ### ✅ Practice Lab Assignment
 
@@ -128,13 +128,13 @@ Read a real-life dataset, store into DataFrames, identify and implement **20 gra
 - 🏙️ Which city sold the most products?
 - 🛒 What products are most often sold together?
 
-📓 Notebook: [pandas_operations.ipynb](./Practical_04/pandas_operations.ipynb)
+📓 Notebook: [pandas_operations.ipynb](./Essentials-of-Data-Science/Practical_04/pandas_operations.ipynb)
 
 ### 📚 Self Study Assignment
 
 | # | Problem | File |
 |---|---------|------|
-| 1 | Advanced data manipulation — combining data, handling time series data | [self_study.ipynb](./Practical_04/self_study.ipynb) |
+| 1 | Advanced data manipulation — combining data, handling time series data | [self_study.ipynb](./Essentials-of-Data-Science/Practical_04/self_study.ipynb) |
 
 ---
 
@@ -142,7 +142,7 @@ Read a real-life dataset, store into DataFrames, identify and implement **20 gra
 
 **Duration:** 6 Hours &nbsp;|&nbsp; **CO Mapped:** CO5
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Practical_05/matplotlib_visualization.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_05/matplotlib_visualization.ipynb)
 
 ### ✅ Practice Lab Assignment
 
@@ -158,14 +158,14 @@ Read a real-life dataset, store into DataFrames, identify and implement **20 gra
 - Create **5 different graph types** (bar, line, scatter, pie, histogram, etc.)
 - Each graph must include: proper **title**, **legends**, **axis labels**
 
-📓 Notebook: [matplotlib_visualization.ipynb](./Practical_05/matplotlib_visualization.ipynb)
+📓 Notebook: [matplotlib_visualization.ipynb](./Essentials-of-Data-Science/Practical_05/matplotlib_visualization.ipynb)
 
 ### 📚 Self Study Assignments
 
 | # | Problem | File |
 |---|---------|------|
-| 1 | Advanced graphs — Span Selector, Broken Barh plot, Watermarking images with Matplotlib | [self_study_01.ipynb](./Practical_05/self_study_01.ipynb) |
-| 2 | Apply **Linear Regression** and **K-Nearest Neighbour Classifier** on a real-time dataset | [self_study_02.ipynb](./Practical_05/self_study_02.ipynb) |
+| 1 | Advanced graphs — Span Selector, Broken Barh plot, Watermarking images with Matplotlib | [self_study_01.ipynb](./Essentials-of-Data-Science/Practical_05/self_study_01.ipynb) |
+| 2 | Apply **Linear Regression** and **K-Nearest Neighbour Classifier** on a real-time dataset | [self_study_02.ipynb](./Essentials-of-Data-Science/Practical_05/self_study_02.ipynb) |
 
 ---
 
@@ -195,7 +195,7 @@ jupyter notebook
 
 **Option 3 — Run Python files directly (P1/P2)**
 ```bash
-python Practical_01/lab_01_grades.py
+python Essentials-of-Data-Science/Practical_01/lab_01_grades.py
 ```
 
 ---
