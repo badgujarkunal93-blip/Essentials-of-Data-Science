@@ -13,9 +13,9 @@
 |-----------|-------|-------|
 | [Practical 01](#-practical-01--python-fundamentals) | Python Fundamentals | — |
 | [Practical 02](#-practical-02--data-structures) | Data Structures (List, Dict, Tuple) | — |
-| [Practical 03](#-practical-03--numpy) | NumPy Operations | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_03/numpy_operations.ipynb) |
-| [Practical 04](#-practical-04--pandas) | Pandas & Data Manipulation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_04/pandas_operations.ipynb) |
-| [Practical 05](#-practical-05--matplotlib--data-visualization) | Matplotlib & Data Visualization | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_05/matplotlib_visualization.ipynb) |
+| [Practical 03](#-practical-03--numpy) | NumPy Operations | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CISx8HK6bi5j-TFaB_LV0qu5jUrSAU7M?usp=sharing) |
+| [Practical 04](#-practical-04--pandas) | Pandas & Data Manipulation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hJhLE_ELuz1CI4jSqK_zrYMxlyNwkBZS?usp=sharing) |
+| [Practical 05](#-practical-05--matplotlib--data-visualization) | Matplotlib & Data Visualization | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gHZwRh8l6aYw_mwVcgrbo1oTgGslSCLn?usp=sharing) |
 
 ---
 
