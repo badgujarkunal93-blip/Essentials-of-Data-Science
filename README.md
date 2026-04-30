@@ -17,6 +17,13 @@
 | [Practical 04](#-practical-04--pandas) | Pandas & Data Manipulation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hJhLE_ELuz1CI4jSqK_zrYMxlyNwkBZS?usp=sharing) |
 | [Practical 05](#-practical-05--matplotlib--data-visualization) | Matplotlib & Data Visualization | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gHZwRh8l6aYw_mwVcgrbo1oTgGslSCLn?usp=sharing) |
 
+## 📜 Certifications
+
+| Certificate         | Issuer                   | View                                                       |
+| ------------------- | ------------------------ | ---------------------------------------------------------- |
+| Python Essentials 1 | Cisco Networking Academy | [View Certificate](./certificates/python_essentials_1.pdf) |
+| Python Essentials 2 | Cisco Networking Academy | [View Certificate](./certificates/python_essentials_2.pdf) |
+
 ---
 
 ## 🐍 Practical 01 — Python Fundamentals
