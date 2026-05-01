@@ -94,7 +94,7 @@
 
 **Duration:** 6 Hours &nbsp;|&nbsp; **CO Mapped:** CO3
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_03/numpy_operations.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CISx8HK6bi5j-TFaB_LV0qu5jUrSAU7M?usp=sharing)
 
 ### ✅ Practice Lab Assignment
 
@@ -115,11 +115,7 @@ Use a real-life dataset and perform the following operations:
 
 📓 Notebook: [numpy_operations.ipynb](./Essentials-of-Data-Science/Practical_03/numpy_operations.ipynb)
 
-### 📚 Self Study Assignment
-
-| # | Problem | File |
-|---|---------|------|
-| 1 | Advanced data operations — image as array and image manipulations using NumPy | [self_study.ipynb](./Essentials-of-Data-Science/Practical_03/self_study.ipynb) |
+### 📚 Self Study Assignment Included
 
 ---
 
@@ -127,7 +123,7 @@ Use a real-life dataset and perform the following operations:
 
 **Duration:** 6 Hours &nbsp;|&nbsp; **CO Mapped:** CO4
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_04/pandas_operations.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hJhLE_ELuz1CI4jSqK_zrYMxlyNwkBZS?usp=sharing)
 
 ### ✅ Practice Lab Assignment
 
@@ -146,11 +142,8 @@ Read a real-life dataset, store into DataFrames, identify and implement **20 gra
 
 📓 Notebook: [pandas_operations.ipynb](./Essentials-of-Data-Science/Practical_04/pandas_operations.ipynb)
 
-### 📚 Self Study Assignment
+### 📚 Self Study Assignment Included
 
-| # | Problem | File |
-|---|---------|------|
-| 1 | Advanced data manipulation — combining data, handling time series data | [self_study.ipynb](./Essentials-of-Data-Science/Practical_04/self_study.ipynb) |
 
 ---
 
@@ -158,7 +151,7 @@ Read a real-life dataset, store into DataFrames, identify and implement **20 gra
 
 **Duration:** 6 Hours &nbsp;|&nbsp; **CO Mapped:** CO5
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badgujarkunal93-blip/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science/Practical_05/matplotlib_visualization.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gHZwRh8l6aYw_mwVcgrbo1oTgGslSCLn?usp=sharing)
 
 ### ✅ Practice Lab Assignment
 
@@ -176,12 +169,7 @@ Read a real-life dataset, store into DataFrames, identify and implement **20 gra
 
 📓 Notebook: [matplotlib_visualization.ipynb](./Essentials-of-Data-Science/Practical_05/matplotlib_visualization.ipynb)
 
-### 📚 Self Study Assignments
-
-| # | Problem | File |
-|---|---------|------|
-| 1 | Advanced graphs — Span Selector, Broken Barh plot, Watermarking images with Matplotlib | [self_study_01.ipynb](./Essentials-of-Data-Science/Practical_05/self_study_01.ipynb) |
-| 2 | Apply **Linear Regression** and **K-Nearest Neighbour Classifier** on a real-time dataset | [self_study_02.ipynb](./Essentials-of-Data-Science/Practical_05/self_study_02.ipynb) |
+### 📚 Self Study Assignments Included
 
 ---
 
