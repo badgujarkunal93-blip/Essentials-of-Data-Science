@@ -113,7 +113,7 @@ Use a real-life dataset and perform the following operations:
 - ✔️ Copying and viewing arrays
 - ✔️ Data Stacking, Searching, Sorting, Counting, Broadcasting
 
-📓 Notebook: [numpy_operations.ipynb](./Essentials-of-Data-Science/Practical_03/numpy_operations.ipynb)
+📓 Notebook: [numpy_operations.ipynb](Essentials-of-Data-Science/numpy_operations.ipynb)
 
 ### 📚 Self Study Assignment Included
 
