@@ -140,7 +140,7 @@ Read a real-life dataset, store into DataFrames, identify and implement **20 gra
 - 🏙️ Which city sold the most products?
 - 🛒 What products are most often sold together?
 
-📓 Notebook: [pandas_operations.ipynb](./Essentials-of-Data-Science/Practical_04/pandas_operations.ipynb)
+📓 Notebook: [pandas_operations.ipynb](Essentials-of-Data-Science/pandas_operations.ipynb)
 
 ### 📚 Self Study Assignment Included
 
@@ -167,7 +167,7 @@ Read a real-life dataset, store into DataFrames, identify and implement **20 gra
 - Create **5 different graph types** (bar, line, scatter, pie, histogram, etc.)
 - Each graph must include: proper **title**, **legends**, **axis labels**
 
-📓 Notebook: [matplotlib_visualization.ipynb](./Essentials-of-Data-Science/Practical_05/matplotlib_visualization.ipynb)
+📓 Notebook: [matplotlib_visualization.ipynb](Essentials-of-Data-Science/mathplotlib_operations.ipynb)
 
 ### 📚 Self Study Assignments Included
 
