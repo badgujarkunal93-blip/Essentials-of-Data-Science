@@ -2,7 +2,7 @@
 
 > **Course** · EDS Lab · Second Year B.Tech Computer Engineering (Rev. 2023 NEP)  
 > **Institute** · MIT Academy of Engineering  
-> **Academic Year** · 2023–2024  
+> **Academic Year** · 2025–2026  
 > **Credits** · 1 | **Marks** · CA: 20 + Practical/Demo/Pres: 30 = **50 Total**
 
 ---
